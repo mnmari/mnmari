@@ -3,7 +3,7 @@
   <b>- pt </b><br>
 Atualmente moro em São Paulo, estudei engenharia elétrica na Universidade de Brasília (UnB) e engenharia eletrônica na University of Surrey (Reino Unido) por um ano como parte de um programa de intercâmbio. Sou pós-graduada na modalidade certificate em Dinâmica de Negócios na Business School São Paulo (BSP). Atualmente, estou em transição de carreira para a área de desenvolvimento de software. Tenho estudado desenvolvimento backend e desenvolvimento mobile em Android usando Kotlin. Sinta-se à vontade para me contatar!<br><br>
   <b>- en </b><br>
-Currently, I live in São Paulo, I have studied electrical engineering at the University of Brasília (UnB) and BEng Electronic Engineering at the University of Surrey (UK) for one year as part of an exchange program. I did a graduate course in Business Dynamics at the Business School São Paulo (BSP). Currently, I'm in a career transition process to become a software developer. I have been studying backend development and Android mobile development with Kotlin. Feel free to contact me!<br><br>
+I currently live in São Paulo, I have studied electrical engineering at the University of Brasília (UnB) and BEng Electronic Engineering at the University of Surrey (UK) for one year as part of an exchange program. I did a graduate course in Business Dynamics at the Business School São Paulo (BSP). Currently, I'm in a career transition process to become a software developer. I have been studying backend development and Android mobile development with Kotlin. Feel free to contact me!<br><br>
 
 <b>Socials:</b><br>
 <p id ="socials" align="left">
