@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![LinkedIn Badge](https://user-images.githubusercontent.com/7984098/119354311-51d6dd80-bc7a-11eb-8e36-f5047d94f36f.png&link=http://https://www.linkedin.com/in/mariananoliveira/)](http://https://www.linkedin.com/in/mariananoliveira/)
-![Gmail Badge](https://user-images.githubusercontent.com/7984098/119354334-59968200-bc7a-11eb-9556-b417270a51f3.png)(mailto:mariananunoli@gmail.com)
