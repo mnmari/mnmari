@@ -11,7 +11,5 @@ Currently, I live in São Paulo, I have studied electrical engineering at the Un
      <img alt="LinkedIn" src="https://user-images.githubusercontent.com/7984098/119355094-3ae4bb00-bc7b-11eb-9254-ec1a53cf6cfc.png" height=40 width=40/></a>
    <a href = "mailto:mariananunoli@gmail.com">
      <img alt="Gmail" src="https://user-images.githubusercontent.com/7984098/119355781-0b827e00-bc7c-11eb-818f-36b353dc13cc.png" height=40 width=40/></a>
-   <a href = "mnmari#5764">
-     <img alt="Discord" src="https://user-images.githubusercontent.com/7984098/119359207-c2ccc400-bc7f-11eb-8f1d-f0bf375c803a.png" height=40 width=40/></a>
 
   
