@@ -1,15 +1,17 @@
 <b>Olá! / Hello! (:coffee::computer::wink::heart:)</b>
 
   <b>- pt </b><br>
-Atualmente moro em São Paulo, estudei engenharia elétrica na Universidade de Brasília (UnB) e engenharia eletrônica na University of Surrey (Reino Unido) por um ano como parte de um programa de intercâmbio. Sou pós-graduada na modalidade certificate em Dinâmica de Negócios na Business School São Paulo (BSP). Atualmente em transição de carreira para a área de desenvolvimento de software. Tenho estudado desenvolvimento backend e desenvolvimento mobile em Android usando Kotlin. Sinta-se à vontade para me contatar!<br><br>
+Atualmente moro em São Paulo, estudei engenharia elétrica na Universidade de Brasília (UnB) e engenharia eletrônica na University of Surrey (Reino Unido) por um ano como parte de um programa de intercâmbio. Sou pós-graduada na modalidade certificate em Dinâmica de Negócios na Business School São Paulo (BSP). Atualmente, estou em transição de carreira para a área de desenvolvimento de software. Tenho estudado desenvolvimento backend e desenvolvimento mobile em Android usando Kotlin. Sinta-se à vontade para me contatar!<br><br>
   <b>- en </b><br>
 Currently, I live in São Paulo, I have studied electrical engineering at the University of Brasília (UnB) and BEng Electronic Engineering at the University of Surrey (UK) for one year as part of an exchange program. I did a graduate course in Business Dynamics at the Business School São Paulo (BSP). Currently, I'm in a career transition process to become a software developer. I have been studying backend development and Android mobile development with Kotlin. Feel free to contact me!<br><br>
-  
+
+<b>Socials:</b><br>
 <p id ="socials" align="left">
    <a href = "http:/linkedin.com/in/mariananoliveira/">
      <img alt="LinkedIn" src="https://user-images.githubusercontent.com/7984098/119355094-3ae4bb00-bc7b-11eb-9254-ec1a53cf6cfc.png" height=40 width=40/></a>
    <a href = "mailto:mariananunoli@gmail.com">
      <img alt="Gmail" src="https://user-images.githubusercontent.com/7984098/119355781-0b827e00-bc7c-11eb-818f-36b353dc13cc.png" height=40 width=40/></a>
-
+   <a href = "mnmari#5764">
+     <img alt="Discord" src="https://user-images.githubusercontent.com/7984098/119359207-c2ccc400-bc7f-11eb-8f1d-f0bf375c803a.png" height=40 width=40/></a>
 
   
