@@ -1,9 +1,9 @@
 <b>Olá! / Hello! (:coffee: :computer: :wink: :heart:)</b>
 
   <b>- pt </b><br>
-<br> Sou desenvolvedora Android, moro em São Paulo, estudei Engenharia Elétrica na Universidade de Brasília (Brasília/Brasil) e Engenharia Eletrônica na University of Surrey (Guildford/Reino Unido) por um ano como parte de um programa de intercâmbio. Sou também pós-graduada na modalidade certificate em Dinâmica de Negócios na Business School São Paulo (BSP).
+<br> Sou desenvolvedora mobile / Android, ex-engenheira eletricista e atualmente moro em São Paulo.
 <br> Sinta-se à vontade para me contatar!<br><br>
   <b>- en </b><br>
-<br> I am an Android developer, I currently live in Sao Paulo/Brazil, I have studied Electrical Engineering at the University of Brasilia (Brasilia/Brasil) and BEng Electronic Engineering at the University of Surrey (Guildford/United Kingdom) for one year as part of an exchange program. I also did a graduate course in Business Dynamics at the Business School Sao Paulo (BSP).
+<br> I am a mobile / android developer, former electrical engineer and currently live in Sao Paulo/Brazil.
 <br> Feel free to contact me!<br><br>
   
