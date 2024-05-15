@@ -1,4 +1,4 @@
-<b>Olá! / Hello! (:coffee: :computer: :wink: :heart:)</b>
+<b>Olá! / Hello!
 
   <b>- pt </b><br>
 <br> Sou desenvolvedora mobile / Android, ex-engenheira eletricista e atualmente moro em São Paulo.
